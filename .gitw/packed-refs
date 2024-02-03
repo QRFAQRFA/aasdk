@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+1b3b684faacb80a01e0513dd5b3a6eacbd3a41a9 refs/remotes/origin/develop
+e4536818b1333e629fd8ca8e6f4cc40829a21f7e refs/remotes/origin/development
+9ee5283245a630afce3a441696b9dde484ecbcd9 refs/remotes/origin/master
+1934037ee4c3f6b5de8f8c63c5cb226eaf7e0655 refs/remotes/origin/newdev
+f2388e8267a41e76658deeb82f55c13ae48e8d05 refs/remotes/origin/opencardev_merge
+ce3aa4465b026793553f53b158d598576fa4420f refs/remotes/origin/resolution480
+3db2770ac4d059f44cdb19a6db05bb74cd769059 refs/tags/v1.0
+b2af4614e34f5a8255e21808bd8e674324a0b910 refs/tags/v2.0
+9ee5283245a630afce3a441696b9dde484ecbcd9 refs/tags/v2.1
+053d69ecf3b4c89486389305e28ba5f976bad9fb refs/tags/v3.1.0
